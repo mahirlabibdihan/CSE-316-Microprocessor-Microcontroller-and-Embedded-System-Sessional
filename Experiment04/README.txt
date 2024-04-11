@@ -1,0 +1,1 @@
+Copy and paste the library files from Arduino_Library folder to "C:\Program Files (x86)\Labcenter Electronics\Proteus 8 Professional\DATA\LIBRARY" (Your proteus installation path may be different)
